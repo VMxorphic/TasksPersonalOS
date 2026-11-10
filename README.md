@@ -13,6 +13,6 @@ A basic personal operating System. 4 icons that you can click and windows will a
 - My top favorite game + where to play it
   
 ## Check It Out:
-https://3amstudiosgames-commits.github.io/TasksPersonalOS/
+https://vmxorphic.github.io/TasksPersonalOS/
 ## Other:
 this is my first time doing HTML with java script!
